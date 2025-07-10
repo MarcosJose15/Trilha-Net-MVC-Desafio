@@ -1,7 +1,6 @@
 # Trilha-Net-MVC-Desafio
 # Trilha .NET - MVC e Entity Framework
 
-# Trilha .NET - MVC e Entity Framework
 
 ## Desafio: Gerenciador de Tarefas - MVC
 

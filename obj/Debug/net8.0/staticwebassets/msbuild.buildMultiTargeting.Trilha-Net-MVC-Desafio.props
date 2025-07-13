@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Trilha-Net-MVC-Desafio.props" />
+</Project>
